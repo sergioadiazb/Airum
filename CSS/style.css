@@ -105,7 +105,6 @@ main {
 }
 
 .fondo-interactivo {
-    background-image:url(IMG/fondoint2.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
